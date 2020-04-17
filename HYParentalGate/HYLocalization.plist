@@ -353,5 +353,32 @@
 		<key>0</key>
 		<string>Zero</string>
 	</dict>
+	<key>ro</key>
+	<dict>
+		<key>adults_only</key>
+		<string>Pentru părinți!</string>
+		<key>enter_numbers</key>
+		<string>Va rugăm introduceți numerele:</string>
+		<key>1</key>
+		<string>Unu</string>
+		<key>2</key>
+		<string>Doi</string>
+		<key>3</key>
+		<string>Trei</string>
+		<key>4</key>
+		<string>Patru</string>
+		<key>5</key>
+		<string>Cinci</string>
+		<key>6</key>
+		<string>Sase</string>
+		<key>7</key>
+		<string>Sapte</string>
+		<key>8</key>
+		<string>Opt</string>
+		<key>9</key>
+		<string>Noua</string>
+		<key>0</key>
+		<string>Zece</string>
+	</dict>
 </dict>
 </plist>
